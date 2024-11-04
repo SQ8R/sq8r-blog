@@ -1,9 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sq8r.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'SQ8R BLOG - ham radio, fpv, 3d printing, arduino, electronics and more'
 
  [author]
-   name = "Your name here"
+   name = "Radek SQ8R"
    image = "profile.jpg"
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   headline = "I'm who I am"
+   bio = "In progress"
