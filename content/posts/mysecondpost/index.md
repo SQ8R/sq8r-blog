@@ -1,6 +1,6 @@
 ---
 title: "My vband USB paddle interface sudenly stopped working"
-date: 2023-08-15
+date: 2023-10-07
 draft: false
 summary: "My vband USB paddle interface sudenly stopped working"
 tags: ["space"]
