@@ -1,8 +1,8 @@
 ---
-title: "My third post"
-date: 2023-08-16
+title: "I've created my cw keyer prototype"
+date: 2023-10-08
 draft: false
-summary: "This is my third post on my site"
+summary: "CW keyer prototype"
 tags: ["space"]
 ---
 
